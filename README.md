@@ -1564,3 +1564,1978 @@ http://list.deeplist.nl:80/Jose2222/12345ede/4909
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Studio do Amor" tvg-logo="http://img.starbr.in/1559792088_302cfaeb3e64b44c8d37a3e6826a67e6cade0186.jpg" group-title="Radio: Geral",Rádio Studio do Amor
 http://list.deeplist.nl:80/Jose2222/12345ede/4918
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Trilhas Sonoras" tvg-logo="http://img.starbr.in/1559792088_302cfaeb3e64b44c8d37a3e6826a67e6cade0186.jpg" group-title="Radio: Geral",Rádio Trilhas Sonoras
+#EXTINF:-1 tvg-logo="http://vortexcultural.com.br/images/2021/04/Godzilla-x-Kong-poster.jpg" group-title="Filmes2021 Ação e Aventura", Kong vs Godzila
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/leg/399566.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/10/09/10/12/0923276.jpg" group-title="Filmes2021 Animação e Fantasia", Soul
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/508442.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Enr4Z3AWEAIwOmF?format=jpg" group-title="Filmes2021 Ação e Aventura", Mulher Maravilha 1984
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/464052.mp4
+
+#EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2021/02/20210203-nova-ordem-espacial-papo-de-cinema-cartaz.jpg" group-title="Filmes2021 Ficção Cientifica", Nova Ordem Espacial
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/581389.mp4
+
+#EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2021/04/20210414-duas-tias-loucas-de-ferias-papo-de-cinema-cartaz.jpeg" group-title="Filmes2021 Comédia e Romance", Duas Tias Loucas de Férias
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/595813.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/01/20/10/27/2398485.jpg" group-title="Filmes2021 Comédia e Romance", Para Todos os Garotos: Agora e Para Sempre
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/614409.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/sitedosgeeks.com/wp-content/uploads/2021/01/flora-e-ulisses-Disney.jpg?fit=1463%2C857&ssl=1" group-title="Filmes2021 Ação e Aventura", Flora e Ulysses
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/621876.mp4
+
+#EXTINF:-1 tvg-logo="https://mb.web.sapo.io/372ad2c88f84aec6dddc167388b094985e1f28b2.jpg" group-title="Filmes2021 Ação e Aventura", Boss Level: O Último Nível
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/leg/513310.mp4?stream.js
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/14/15/46/2381876.jpg?coixp=50&coiyp=50" group-title="Filmes2021 Animação e Fantasia", Bob Esponja: O Incrível Resgate 
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/400160.mp4
+
+#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/cdc.190331/0190331_335.jpg" group-title="Filmes2021 Ação e Aventura", Capturado
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/572751.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/334CebHp60Kg8xhMnJrrTtgiRxK.jpg" group-title="Filmes2021 Animação e Fantasia", Frozen - Era Uma Vez um Boneco de Neve
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/741074.mp4
+#EXTINF:-1 tvg-logo="" group-title="Filmes2021 Ação e Aventura", 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qx0EDGXslJvH4qU3DCTseNUL2wo.jpg" group-title="Filmes2021 Animação e Fantasia", Procurando Nemo
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/12.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lwDNwvzXkPslQTRRCEoPNnNo76T.jpg" group-title="Filmes2021 Animação e Fantasia", Nível Hard
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/726664.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qWFgaDLfiLtsFIEa8fcbmP2SIp9.jpg" group-title="Filmes2021 Animação e Fantasia", Frozen: Uma Aventura Congelante
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/109445.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes2021 Animação e Fantasia",WiFi Ralph: Quebrando a Internet
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/404368.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wIRraYJCWcfmXW9v3MfD8uhnUvO.jpg" group-title="Filmes2021 Animação e Fantasia", Universidade Monstros
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/62211.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/54TouWa5dWkxPtuzoqVEbgUWBVT.jpg" group-title="Filmes2021 Animação e Fantasia", Pokémon: Mewtwo Contra-Ataca! Evolução
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/571891.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vZqD8QMXiZh977LipOsXQmaMM7l.jpg" group-title="Filmes2021 Animação e Fantasia", Superman/Batman: Apocalipse
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/45162.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Filmes2021 Animação e Fantasia", A Morte do Superman
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/487670.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hb1dzrqAw8K98jdaLqYUYZsizfH.jpg" group-title="Filmes2021 Animação e Fantasia", Pica-Pau: O Filme
+https://image.tmdb.org/t/p/w185/hb1dzrqAw8K98jdaLqYUYZsizfH.jpg
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/x5MpwRn04VeSYWIID9jxLQW9MhI.jpg" group-title="Filmes2021 Animação e Fantasia", Patrulha Canina: Super Filhotes
+https://image.tmdb.org/t/p/w185/x5MpwRn04VeSYWIID9jxLQW9MhI.jpg
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5tLSOyfDnrQvhIaTKQOjpnfNCu.jpg" group-title="Filmes2021 Animação e Fantasia", Scooby-Doo! e a Maldição do 13° Fantasma
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/560066.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eHAY4kvhzsU3Cn85uaIgpe7ch5M.jpg" group-title="Filmes2021 Ação e Aventura",Tubarão Assassino
+https://image.tmdb.org/t/p/w185/eHAY4kvhzsU3Cn85uaIgpe7ch5M.jpg
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg" group-title="Filmes2021 Ação e Aventura", Caça Mortal
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/603119.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="Filmes2021 Ação e Aventura", Tenet
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/577922.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uSypWMagzI7jJ7cq2TStGnYyyfL.jpg" group-title="Filmes2021 Ação e Aventura", Armas em Jogo
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/457335.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg" group-title="Filmes2021 Ação e Aventura", Em Busca do Paraíso
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/634244.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg" group-title="Filmes2021 Ação e Aventura", Attraction 2: A Invasão
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/514207.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg" group-title="Filmes2021 Ação e Aventura", Bronx
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/671039.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wMK1SeyE1MgEuemnmqPQeKiyMLQ.jpg" group-title="Filmes2021 Ação e Aventura", A Ilha
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/560192.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mQSI9tjOYr272EcjRjFjCMDcGyJ.jpg" group-title="Filmes2021 Ação e Aventura", Uma Noite em Banguecoque
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/721452.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mQSI9tjOYr272EcjRjFjCMDcGyJ.jpg" group-title="Filmes2021 Ação e Aventura", Aprendiz de Espiã
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/592834.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/azvgqitNO0kConxAP0TUjMlpBUI.jpg" group-title="Filmes2021 Ação e Aventura",Do Fundo do Mar 3
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/703745.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes2021 Comédia e Romance", Amigos Para Sempre
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/440472.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5M8LjtjPamwSkbp3SWye8Xb1dkz.jpg" group-title="Filmes2021 Comédia e Romance", A Pé Ele Não Vai Longe
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/443009.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/18JeOCuDpVbocIbioIrGrO2A5aq.jpg" group-title="Filmes2021 Comédia e Romance", Boo 2! O Halloween de Madea
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/459202.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bfWQzMsa9iBD5s8VKDwvDFdTSa3.jpg" group-title="Filmes2021 Comédia e Romance", Com Quem Será?
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/489929.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gQdA3YhX1pTpoqr3rBrT5v2DqYl.jpg" group-title="Filmes2021 Comédia e Romance", Até que a Gente te Separe
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/502143.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zDETzyiUH9r3OMDioeCs8LZpY50.jpg" group-title="Filmes2021 Comédia e Romance", Bem-Vindo À Meia-Idade
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/503929.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg" group-title="Filmes2021 Comédia e Romance", A Morte te dá Parabéns
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/440021.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zvcFFL2B6zcn3cM6ZMshV6w2bev.jpg" group-title="Filmes2021 Comédia e Romance", A Morte Te Dá Parabéns 2
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/512196.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vcUQnG9YG1uKAyvvnJV6qxyV2Ew.jpg" group-title="Filmes2021 Comédia e Romance", Esqueceram de Mim
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/771.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/53M0P9FfVSL6bZumLUvV0IOIjB6.jpg" group-title="Filmes2021 Comédia e Romance", Amizade Colorida
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/50544.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="Filmes2021 Comédia e Romance", Emoji: O Filme
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/378236.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" group-title="Filmes2021 Ficção Cientifica", A Primeira Noite de Crime
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/442249.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="Filmes2021 Ficção Cientifica", A Gente Se Vê Ontem 
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/582607.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/c4H5aH4PxVomNxa5UIHa32bzrCO.jpg" group-title="Filmes2021 Ficção Cientifica", Premissa Menor
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/leg/661137.mp4?stream.js
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6RcWaW43UWIJzhIp6bcmui2efd.jpg" group-title="Filmes2021 Ficção Cientifica", Os Novos Mutantes
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/340102.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zftgIV8k5PzFfumIq79a7qMapoH.jpg" group-title="Filmes2021 Ficção Cientifica", Procurada
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/597233.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/avb3THg1FTxBc79h2QECsuwjujY.jpg" group-title="Filmes2021 Ficção Cientifica", Artemis Fowl: O Mundo Secreto
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/475430.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1OmHJI83sqYH2y82EJHkqqEKOt9.jpg" group-title="Filmes2021 Ficção Cientifica", High Life: Uma Nova Vida
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/376865.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ks84JvfZhjZZkmd7uVTYHUi81ge.jpg" group-title="Filmes2021 Ficção Cientifica", O Espaço Entre Nós
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/365942.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fib4l4DflIhNdsQErxpRXdli78E.jpg" group-title="Filmes2021 Ficção Cientifica", Ficção Científica Volume 1: A Filha de Osiris
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/354282.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg" group-title="Filmes2021 Ficção Cientifica", Um Lugar Silencioso
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/447332.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg" group-title="Filmes2021 Ficção Cientifica", Interestelar
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/157336.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="Filmes2021 Ficção Cientifica", Capitã Marvel
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/299537.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/haFimehtZoP6rSz53kEqXSKianS.jpg" group-title="Filmes2021 Ficção Cientifica", Sociedade da Justiça: 2ª Guerra Mundial
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/736069.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/n91IdvTOxogvs08HN0mYK7nY5T7.jpg" group-title="Filmes2021 Ficção Cientifica", Passageiro Acidental
+https://heromoster.r.worldssl.net/-f-i-l-m-e-s-/dub/559581.mp4
+
+#########################################################Séries
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8QrGSyALY10MUNLMg0BDlMcdaGF.jpg" group-title="Séries 2021", WandaVision episodio 1
+https://heromoster.r.worldssl.net/tvshows/85271/1/dub/1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8QrGSyALY10MUNLMg0BDlMcdaGF.jpg" group-title="Séries 2021", WandaVision episodio 2
+https://heromoster.r.worldssl.net/tvshows/85271/1/dub/2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8QrGSyALY10MUNLMg0BDlMcdaGF.jpg" group-title="Séries 2021", WandaVision episodio 3
+https://heromoster.r.worldssl.net/tvshows/85271/1/dub/3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8QrGSyALY10MUNLMg0BDlMcdaGF.jpg" group-title="Séries 2021", WandaVision episodio 4
+https://heromoster.r.worldssl.net/tvshows/85271/1/dub/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8QrGSyALY10MUNLMg0BDlMcdaGF.jpg" group-title="Séries 2021", WandaVision episodio 5
+https://heromoster.r.worldssl.net/tvshows/85271/1/dub/5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8QrGSyALY10MUNLMg0BDlMcdaGF.jpg" group-title="Séries 2021", WandaVision episodio 6
+https://heromoster.r.worldssl.net/tvshows/85271/1/dub/6.mp4
+###
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 1
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 2
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 3
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 4
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 5
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 6
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 7
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/imR6dHfuApFPYalreSuWQHeI17s.jpg" group-title="Séries 2021", Nosso Planeta episodio 8
+https://heromoster.r.worldssl.net/tvshows/83880/1/dub/8.mp4
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E01 Piloto Two and a Half Men
+http://kianumaka.lhmtv.gq/play/?list=be6bd99b9f1be10e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E02 Imbecis de Asas
+http://kianumaka.lhmtv.gq/play/?list=5cab1d1fe1ddf7c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E03 Va para o Inferno
+http://kianumaka.lhmtv.gq/play/?list=b4ff7028e3fbf9e0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E04 Se Nao Da pra Compor. Vou Tirar Uma Soneca
+http://kianumaka.lhmtv.gq/play/?list=00b9494ba31dcafb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E05 Quer Acabar Corcunda?
+http://kianumaka.lhmtv.gq/play/?list=57a03f4ef36a5802&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E06 Voce Procurou Direito?
+http://kianumaka.lhmtv.gq/play/?list=9f7135368e876288&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E07 Se Vao para o Mesmo Lado. Sao Falsos
+http://kianumaka.lhmtv.gq/play/?list=22be8fca570aa104&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E08 Vinte e Cinco Pre-Adolescentes
+http://kianumaka.lhmtv.gq/play/?list=5143f4fdc8e35628&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E09 Fase Um. Concluida
+http://kianumaka.lhmtv.gq/play/?list=808bb28ab018530c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E10 Feliz Acao de Gracas
+http://kianumaka.lhmtv.gq/play/?list=26300da4dd33ac01&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E11 Banho de Loja
+http://kianumaka.lhmtv.gq/play/?list=69a603921aee080d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E12 Cigarros e Feromonios
+http://kianumaka.lhmtv.gq/play/?list=767e57cf4e019714&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E13 Falta de Sorte
+http://kianumaka.lhmtv.gq/play/?list=2a9848653ecb127c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E14 Dureza
+http://kianumaka.lhmtv.gq/play/?list=1b33a019862ea14d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E15 Um a Zero pra Doida
+http://kianumaka.lhmtv.gq/play/?list=64d203c182701089&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E16 Era Saliva. Alan
+http://kianumaka.lhmtv.gq/play/?list=d86a9fe698cfc3f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E17 Nao Tira o Bone
+http://kianumaka.lhmtv.gq/play/?list=22dec1c962b5ec5b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E18 Velhos Amores
+http://kianumaka.lhmtv.gq/play/?list=8aec19ccb7f7a3eb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E19 Nao Me Lembro de Voce
+http://kianumaka.lhmtv.gq/play/?list=24dccef58d5e70e5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E20 Xixi no Escuro
+http://kianumaka.lhmtv.gq/play/?list=b8cf01fe132596c9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E21 Sem Gracinhas
+http://kianumaka.lhmtv.gq/play/?list=1194548e80afd59e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E22 Terapia Familiar
+http://kianumaka.lhmtv.gq/play/?list=fc3356155b62c9af&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E23 Como Bufalos
+http://kianumaka.lhmtv.gq/play/?list=0d3d417e1fd9c0cf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm1.jpg" group-title="Two and a Half Men", 1T-E24 Visita ao Urologista
+http://kianumaka.lhmtv.gq/play/?list=4f6b92b6875b264a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E01 Ja chega. Mary Poppins
+http://kianumaka.lhmtv.gq/play/?list=d2f81b450f845915&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E02 Aproveita as Bolinhas de Alho
+http://kianumaka.lhmtv.gq/play/?list=700c369d742f1d7b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E03 Fazendo Sinais
+http://kianumaka.lhmtv.gq/play/?list=3a6706332434cda3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E04 Devolve o Sutia da Mamae
+http://kianumaka.lhmtv.gq/play/?list=b7108763dabb9984&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E05 Noticias Ruin
+http://kianumaka.lhmtv.gq/play/?list=6fba7d4ad15cd4a2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E06 Revelacoes do Passado
+http://kianumaka.lhmtv.gq/play/?list=36f0fd5ba2f9d177&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E07 Mae. Te Amamos
+http://kianumaka.lhmtv.gq/play/?list=21b500c1e1849a9a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E08 Tirando o Atraso
+http://kianumaka.lhmtv.gq/play/?list=9f794c7bb704e013&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E09 Surpresa Desagradavel
+http://kianumaka.lhmtv.gq/play/?list=f780e87c205a322f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E10 Cinemas e Musicas
+http://kianumaka.lhmtv.gq/play/?list=3d471031ec8be285&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E11 Novidades do Computador
+http://kianumaka.lhmtv.gq/play/?list=f84149c18f57952&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E12 Fica com o Alan
+http://kianumaka.lhmtv.gq/play/?list=e17c996971637931&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E13 Visitas Indesejaveis
+http://kianumaka.lhmtv.gq/play/?list=9883bf3fc78ab2e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E14 Chantagem Emocional
+http://kianumaka.lhmtv.gq/play/?list=3ecb88f78629ab60&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E15 Mal Estar
+http://kianumaka.lhmtv.gq/play/?list=7b739502cc61a78d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E16 Memoria Fraca
+http://kianumaka.lhmtv.gq/play/?list=39a1f6cc7db9343e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E17 Oba! Exame
+http://kianumaka.lhmtv.gq/play/?list=92bbc86cae65d49a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E18 Opcao Sexual
+http://kianumaka.lhmtv.gq/play/?list=21b336420e05a0cc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E19 Entre Irmaos
+http://kianumaka.lhmtv.gq/play/?list=f734a956b3b7e78a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E20 Sempre Quis Um Macaquinho
+http://kianumaka.lhmtv.gq/play/?list=12ea6f018245cab1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E21 Ombro Amigo
+http://kianumaka.lhmtv.gq/play/?list=10851dafc970c9d0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E22 Meu Carro Novo
+http://kianumaka.lhmtv.gq/play/?list=1b1fa18be4c5fb06&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E23 Pombo. Pombo
+http://kianumaka.lhmtv.gq/play/?list=ed2d04b46e108945&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm2.jpg" group-title="Two and a Half Men", 2T-E24 Qual e a Graca?
+http://kianumaka.lhmtv.gq/play/?list=43c422f0d5a840ba&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E01 Fim de Semana com Dois Ginastas Olimpicos
+http://kianumaka.lhmtv.gq/play/?list=185e82b7131a3640&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E02 Amante lesbica do diretor Gallagher
+http://kianumaka.lhmtv.gq/play/?list=70bf62d775773278&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E03 Carpet Burns e uma marca de mordida
+http://kianumaka.lhmtv.gq/play/?list=1ebd3f302c778baa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E04 Sua atitude desdenhosa em relacao a Boobs
+http://kianumaka.lhmtv.gq/play/?list=2d62bbb577f29441&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E05 Nos chamamos de Mr. Pinky
+http://kianumaka.lhmtv.gq/play/?list=4025b334470f5674&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E06 Ola. Mr. Horned One
+http://kianumaka.lhmtv.gq/play/?list=629f8df1c26688ff&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E07 Durma bem. Puddin
+http://kianumaka.lhmtv.gq/play/?list=8a42f2b72d365d50&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E08 Esse vodu que eu faco
+http://kianumaka.lhmtv.gq/play/?list=b74a3304213f088d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E09 Madame e seu amigo especial
+http://kianumaka.lhmtv.gq/play/?list=feec52fc7c1ba2f9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E10 Algo Salgado e Torcido
+http://kianumaka.lhmtv.gq/play/?list=7a163c3c8150e057&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E11 Aldeia do Papai Noel dos Malditos
+http://kianumaka.lhmtv.gq/play/?list=8aa302acbdf0c794&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E12 Esse rebocador especial
+http://kianumaka.lhmtv.gq/play/?list=9b0fb7159219c569&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E13 Humilhacao e um meio visual
+http://kianumaka.lhmtv.gq/play/?list=282d8c82b422e7f9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E14 O amor nao e cego. e retardado
+http://kianumaka.lhmtv.gq/play/?list=1ddd5ffda69aa6b7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E15 Minha lingua e carne
+http://kianumaka.lhmtv.gq/play/?list=3f1bbc8a00d31a5d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E16 Ergo. The Booty Call
+http://kianumaka.lhmtv.gq/play/?list=15ba187a23f1f754&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E17 O infeliz pequeno Schnauser
+http://kianumaka.lhmtv.gq/play/?list=f5e89a645e80d7c0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E18 O sapateiro coberto de cuspe
+http://kianumaka.lhmtv.gq/play/?list=7367a216650600ca&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E19 Golly Moses. ela e um muffin
+http://kianumaka.lhmtv.gq/play/?list=8b1ae620a3216ce&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E20 Sempre uma dama de honra. nunca um burro
+http://kianumaka.lhmtv.gq/play/?list=66ebdafcf5098510&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E21 E o lote umedece
+http://kianumaka.lhmtv.gq/play/?list=652c44073f31053e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E22 So uma vez com tia Sophie
+http://kianumaka.lhmtv.gq/play/?list=868d0670cd7ac2ea&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E23 Argumentos para o Quickie
+http://kianumaka.lhmtv.gq/play/?list=adf03d3e07d3035&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm3.jpg" group-title="Two and a Half Men", 3T-E24 Aquele Hermafrodita Pistol-Packin
+http://kianumaka.lhmtv.gq/play/?list=b5821b3727cd38b1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E01
+http://kianumaka.lhmtv.gq/play/?list=60ebbfe9ec8b7fe1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E02
+http://kianumaka.lhmtv.gq/play/?list=ebc3bbc3f76d5e24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E03
+http://kianumaka.lhmtv.gq/play/?list=faddbba20e4623e2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E04
+http://kianumaka.lhmtv.gq/play/?list=e312ca7c23aaf989&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E05
+http://kianumaka.lhmtv.gq/play/?list=9abab2a1aa4cf062&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E06
+http://kianumaka.lhmtv.gq/play/?list=bdb7b03570ea4b20&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E07
+http://kianumaka.lhmtv.gq/play/?list=fcc398d532ee4913&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E08
+http://kianumaka.lhmtv.gq/play/?list=f2b088c5faaf4a53&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E09
+http://kianumaka.lhmtv.gq/play/?list=f3cdee9070542fed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E10
+http://kianumaka.lhmtv.gq/play/?list=14e97e03d458bdda&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E11
+http://kianumaka.lhmtv.gq/play/?list=ed39aae6eee2d360&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E12
+http://kianumaka.lhmtv.gq/play/?list=6294567ea331fa91&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E13
+http://kianumaka.lhmtv.gq/play/?list=ef95f77784c5dbe5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E14
+http://kianumaka.lhmtv.gq/play/?list=eb3f370cd4b3b08f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E15
+http://kianumaka.lhmtv.gq/play/?list=37b50f43aec2b1a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E16
+http://kianumaka.lhmtv.gq/play/?list=ba509431c9cc1878&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E17
+http://kianumaka.lhmtv.gq/play/?list=69d9c6f3766106d3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E18
+http://kianumaka.lhmtv.gq/play/?list=a764eb1d0eaa1223&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E19
+http://kianumaka.lhmtv.gq/play/?list=93d60d811b3cd18c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E20
+http://kianumaka.lhmtv.gq/play/?list=e37e1283867a85fb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E21
+http://kianumaka.lhmtv.gq/play/?list=71965cab6cbb3886&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E22
+http://kianumaka.lhmtv.gq/play/?list=4b2e39e05179caee&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E23
+http://kianumaka.lhmtv.gq/play/?list=80af782ea4c58e8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm4.jpg" group-title="Two and a Half Men", 4T-E24
+http://kianumaka.lhmtv.gq/play/?list=9cdf8ca92d704205&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E01
+http://kianumaka.lhmtv.gq/play/?list=24432ef182c442b8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E02
+http://kianumaka.lhmtv.gq/play/?list=d026a671ec3237e9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E03
+http://kianumaka.lhmtv.gq/play/?list=ec3c50b844adfce8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E04
+http://kianumaka.lhmtv.gq/play/?list=048e8342e67bee4b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E05
+http://kianumaka.lhmtv.gq/play/?list=23a09e776257d791&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E06
+http://kianumaka.lhmtv.gq/play/?list=d44366be54187d1c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E07
+http://kianumaka.lhmtv.gq/play/?list=64f56c74b818d076&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E08
+http://kianumaka.lhmtv.gq/play/?list=77960214a02fe4d1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E09
+http://kianumaka.lhmtv.gq/play/?list=37b5000aae3bb85&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E10
+http://kianumaka.lhmtv.gq/play/?list=8cd9769c4c7fbf19&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E11
+http://kianumaka.lhmtv.gq/play/?list=48a7eafedfc4f6a8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E12
+http://kianumaka.lhmtv.gq/play/?list=5e57381b048da994&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E13
+http://kianumaka.lhmtv.gq/play/?list=60260f1342a8996f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E14
+http://kianumaka.lhmtv.gq/play/?list=4239c414201df330&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E15
+http://kianumaka.lhmtv.gq/play/?list=2004d35af906aae7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E16
+http://kianumaka.lhmtv.gq/play/?list=c10bc1072a356bdc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E17
+http://kianumaka.lhmtv.gq/play/?list=b5a7acf4f3d28312&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E18
+http://kianumaka.lhmtv.gq/play/?list=2730043b2c345f09&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm5.jpg" group-title="Two and a Half Men", 5T-E19
+http://kianumaka.lhmtv.gq/play/?list=3ab0001bd44f79d7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E01
+http://kianumaka.lhmtv.gq/play/?list=c4acc5041b89da1d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E02
+http://kianumaka.lhmtv.gq/play/?list=dd07830a22b6f5ff&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E03
+http://kianumaka.lhmtv.gq/play/?list=2f6b48ba3b4366d3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E04
+http://kianumaka.lhmtv.gq/play/?list=5b7fb05386764f88&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E05
+http://kianumaka.lhmtv.gq/play/?list=52d9516143240531&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E06
+http://kianumaka.lhmtv.gq/play/?list=d88966143dd01d69&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E07
+http://kianumaka.lhmtv.gq/play/?list=48d83d4304b5d8b9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E08
+http://kianumaka.lhmtv.gq/play/?list=4b2e1f7ba0fd0991&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E09
+http://kianumaka.lhmtv.gq/play/?list=808b89afc9ff0969&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E10 
+http://kianumaka.lhmtv.gq/play/?list=6c2091c96efdd3d7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E11
+http://kianumaka.lhmtv.gq/play/?list=2c2d93f4cc93edc5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E12
+http://kianumaka.lhmtv.gq/play/?list=d42d21c0fc34c41d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E13
+http://kianumaka.lhmtv.gq/play/?list=5ca60887a7d1f03d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E14
+http://kianumaka.lhmtv.gq/play/?list=be96c606462c29b3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E15
+http://kianumaka.lhmtv.gq/play/?list=6cd2ed19a169eee3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E16
+http://kianumaka.lhmtv.gq/play/?list=a826f46e5026200a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E17
+http://kianumaka.lhmtv.gq/play/?list=e32c28cc2d06c88a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E18
+http://kianumaka.lhmtv.gq/play/?list=97c9dc51a72c7b78&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E19
+http://kianumaka.lhmtv.gq/play/?list=f3e9f3df88a2525&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E20
+http://kianumaka.lhmtv.gq/play/?list=97451f4d459474b0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E21
+http://kianumaka.lhmtv.gq/play/?list=c43b12e22c5fc554&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E22
+http://kianumaka.lhmtv.gq/play/?list=fa3347eb3f32cdd4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E23
+http://kianumaka.lhmtv.gq/play/?list=856d4eb11ebb8260&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm6.jpg" group-title="Two and a Half Men", 6T-E24
+http://kianumaka.lhmtv.gq/play/?list=e312186301f16553&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E01
+http://kianumaka.lhmtv.gq/play/?list=f8878a84ec87e962&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E02
+http://kianumaka.lhmtv.gq/play/?list=999ebb0be6d818a8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E03
+http://kianumaka.lhmtv.gq/play/?list=2cc52eab4789bb53&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E04
+http://kianumaka.lhmtv.gq/play/?list=53e9bc9436d07c46&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E05
+http://kianumaka.lhmtv.gq/play/?list=f4e2084293fcff53&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E06
+http://kianumaka.lhmtv.gq/play/?list=7f2686ec935f67bf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E07
+http://kianumaka.lhmtv.gq/play/?list=74a0c1590cde2bc2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E08
+http://kianumaka.lhmtv.gq/play/?list=f565e3b768877769&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E09
+http://kianumaka.lhmtv.gq/play/?list=a5395abcb2f35d41&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E10
+http://kianumaka.lhmtv.gq/play/?list=8396123e6adcd39a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E11
+http://kianumaka.lhmtv.gq/play/?list=4d1633b0d67cf1e9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E12
+http://kianumaka.lhmtv.gq/play/?list=a6bc2f65e2217478&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E13
+http://kianumaka.lhmtv.gq/play/?list=c8e662d16e57aa6c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E14
+http://kianumaka.lhmtv.gq/play/?list=5496f956a9f948dc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E15
+http://kianumaka.lhmtv.gq/play/?list=4d2a6fb6f6aaf3f6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E16
+http://kianumaka.lhmtv.gq/play/?list=097af3446f4977c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E17
+http://kianumaka.lhmtv.gq/play/?list=59fc0f28ac0284b6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E18
+http://kianumaka.lhmtv.gq/play/?list=d849815cd3252577&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E19
+http://kianumaka.lhmtv.gq/play/?list=ec092dd2d2b2a405&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E20
+http://kianumaka.lhmtv.gq/play/?list=615ad0889de1952&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E21
+http://kianumaka.lhmtv.gq/play/?list=e53b386dbc88c5a4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm7.jpg" group-title="Two and a Half Men", 7T-E22
+http://kianumaka.lhmtv.gq/play/?list=10df8f83e9e4d34b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E01
+http://kianumaka.lhmtv.gq/play/?list=22ab2d65f10bf8b7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E02
+http://kianumaka.lhmtv.gq/play/?list=42252d19feb425c4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E03
+http://kianumaka.lhmtv.gq/play/?list=4a926b4f2e5f9887&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E04
+http://kianumaka.lhmtv.gq/play/?list=43c316a2973a90da&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E05
+http://kianumaka.lhmtv.gq/play/?list=ffae2228b31f8d9e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E06
+http://kianumaka.lhmtv.gq/play/?list=e68190de57c50d5c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E07
+http://kianumaka.lhmtv.gq/play/?list=33b7c6d39a27fa2f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E08
+http://kianumaka.lhmtv.gq/play/?list=d9e37f725d2db591&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E09
+http://kianumaka.lhmtv.gq/play/?list=9c3cd3638db7a575&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E10
+http://kianumaka.lhmtv.gq/play/?list=087d8fde5e4e721d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E11
+http://kianumaka.lhmtv.gq/play/?list=f788fadcf3fd1478&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E12
+http://kianumaka.lhmtv.gq/play/?list=e8bcc66a492910db&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E13
+http://kianumaka.lhmtv.gq/play/?list=af4f53341d584475&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E14
+http://kianumaka.lhmtv.gq/play/?list=f7c165dd2bfb6f06&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E15
+http://kianumaka.lhmtv.gq/play/?list=4da40ad692d1dba3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm8.jpg" group-title="Two and a Half Men", 8T-E16
+http://kianumaka.lhmtv.gq/play/?list=25f2447a11043268&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E01
+http://kianumaka.lhmtv.gq/play/?list=5267c1a0b026e0f3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E02
+http://kianumaka.lhmtv.gq/play/?list=2986f189967a3ba4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E03
+http://kianumaka.lhmtv.gq/play/?list=cffe2e1d360186e7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E04
+http://kianumaka.lhmtv.gq/play/?list=ef40bc04c1000ea5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E05
+http://kianumaka.lhmtv.gq/play/?list=219ab5c2831f293c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E06
+http://kianumaka.lhmtv.gq/play/?list=1798f3a7878732fc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E07
+http://kianumaka.lhmtv.gq/play/?list=3e2dbe5ee0b9c2ca&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E08
+http://kianumaka.lhmtv.gq/play/?list=0b6a860e986adeec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E09
+http://kianumaka.lhmtv.gq/play/?list=fed2a08afd436c9c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E10
+http://kianumaka.lhmtv.gq/play/?list=d3043828ad10ca78&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E11
+http://kianumaka.lhmtv.gq/play/?list=785a2eb79fb13cc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E12
+http://kianumaka.lhmtv.gq/play/?list=18f4672c45a8a37b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E13
+http://kianumaka.lhmtv.gq/play/?list=738df874d04fca27&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E14
+http://kianumaka.lhmtv.gq/play/?list=d718fb2e17fca8cc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E15
+http://kianumaka.lhmtv.gq/play/?list=3d2e5639d8d61a28&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E16
+http://kianumaka.lhmtv.gq/play/?list=ba97ec36d43c8ab6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E17
+http://kianumaka.lhmtv.gq/play/?list=e6d0ec4ba1cb5481&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E18
+http://kianumaka.lhmtv.gq/play/?list=a30c7428e8dc4044&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E19
+http://kianumaka.lhmtv.gq/play/?list=b4bca32c708e567d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E20
+http://kianumaka.lhmtv.gq/play/?list=f1b2880b3e651d95&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E21
+http://kianumaka.lhmtv.gq/play/?list=567d7e90a61c53b2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E22
+http://kianumaka.lhmtv.gq/play/?list=3809bd6e42b05272&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E23
+http://kianumaka.lhmtv.gq/play/?list=78e73a63b8f2352f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm9.jpg" group-title="Two and a Half Men", 9T-E24
+http://kianumaka.lhmtv.gq/play/?list=62ff360d45505be1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E01
+http://kianumaka.lhmtv.gq/play/?list=149d297b961c1a53&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E02
+http://kianumaka.lhmtv.gq/play/?list=d157e58161790ee9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E03
+http://kianumaka.lhmtv.gq/play/?list=28943dab61dc3ea0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E04
+http://kianumaka.lhmtv.gq/play/?list=a8835ceb6a11126e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E05
+http://kianumaka.lhmtv.gq/play/?list=3ff81e67712c3522&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E06
+http://kianumaka.lhmtv.gq/play/?list=a60df15b537ff5c0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E07
+http://kianumaka.lhmtv.gq/play/?list=b0e992ba0ee00eee&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E08
+http://kianumaka.lhmtv.gq/play/?list=879c08b19a5fdf54&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E09
+http://kianumaka.lhmtv.gq/play/?list=f8fbbc5e7eb43d13&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E10
+http://kianumaka.lhmtv.gq/play/?list=a2102601bd995c9b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E11
+http://kianumaka.lhmtv.gq/play/?list=e801866da31d645a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E12
+http://kianumaka.lhmtv.gq/play/?list=7e75ca5be300b19f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E13
+http://kianumaka.lhmtv.gq/play/?list=86989d3a6e450ef2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E14
+http://kianumaka.lhmtv.gq/play/?list=41541bdfb70495c0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E15
+http://kianumaka.lhmtv.gq/play/?list=c23ebc6924828b81&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E16
+http://kianumaka.lhmtv.gq/play/?list=f51d4b4c730aeb22&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E17
+http://kianumaka.lhmtv.gq/play/?list=cdf714cbd202b7de&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E18
+http://kianumaka.lhmtv.gq/play/?list=ea676228e8f57c9e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E19
+http://kianumaka.lhmtv.gq/play/?list=b603da26959bad2c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E20
+http://kianumaka.lhmtv.gq/play/?list=6ab04d2de9c5c226&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E21
+http://kianumaka.lhmtv.gq/play/?list=cbb1b20de522ecb6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E22
+http://kianumaka.lhmtv.gq/play/?list=d8727c48398beb71&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm10.jpg" group-title="Two and a Half Men", 10T-E23
+http://kianumaka.lhmtv.gq/play/?list=cb3e539c3c9a2707&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E01
+http://kianumaka.lhmtv.gq/play/?list=38ed709e9ad47e7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E02
+http://kianumaka.lhmtv.gq/play/?list=7dda6ebaeb2a3a31&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E03
+http://kianumaka.lhmtv.gq/play/?list=deb8eadb9cc86c43&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E04
+http://kianumaka.lhmtv.gq/play/?list=e6b3d771fc0d6890&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E05
+http://kianumaka.lhmtv.gq/play/?list=644ff4c9607774ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E06
+http://kianumaka.lhmtv.gq/play/?list=113bdac7193a71fa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E07
+http://kianumaka.lhmtv.gq/play/?list=0faaac362b4aca2a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E08
+http://kianumaka.lhmtv.gq/play/?list=972e932e2d0da957&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E09
+http://kianumaka.lhmtv.gq/play/?list=c4a6e4f5a0117502&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E10
+http://kianumaka.lhmtv.gq/play/?list=294f3b845ec3e7a8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E11
+http://kianumaka.lhmtv.gq/play/?list=6219be23c6f8e88&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E12
+http://kianumaka.lhmtv.gq/play/?list=93d4582a4450c600&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E13
+http://kianumaka.lhmtv.gq/play/?list=d016a70021491dd6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E14
+http://kianumaka.lhmtv.gq/play/?list=6dc638a5825d4e6e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E15
+http://kianumaka.lhmtv.gq/play/?list=78763c4893a1709c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E16
+http://kianumaka.lhmtv.gq/play/?list=79e513e80c4b25a7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E17
+http://kianumaka.lhmtv.gq/play/?list=d811102a20437d8d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E18
+http://kianumaka.lhmtv.gq/play/?list=de6f7a1941e20074&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E19
+http://kianumaka.lhmtv.gq/play/?list=f01dd23f9ce6fb23&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E20
+http://kianumaka.lhmtv.gq/play/?list=9ae3c79c0a6d9812&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E21
+http://kianumaka.lhmtv.gq/play/?list=da86056ffdbd6423&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm11.jpg" group-title="Two and a Half Men", 11T-E22
+http://kianumaka.lhmtv.gq/play/?list=332ca2c5405a9dd3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E01
+http://kianumaka.lhmtv.gq/play/?list=461ba6afec179d46&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E02
+http://kianumaka.lhmtv.gq/play/?list=77463f39ec7ac4b0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E03
+http://kianumaka.lhmtv.gq/play/?list=df4ee6ec8538fcd2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E04
+http://kianumaka.lhmtv.gq/play/?list=c6a84cd768fead2a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E05
+http://kianumaka.lhmtv.gq/play/?list=e84e2adb0a5cf91b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E06
+http://kianumaka.lhmtv.gq/play/?list=be77d2f02c3b6f98&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E07
+http://kianumaka.lhmtv.gq/play/?list=e9dfb6f1cd7e80b9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E08
+http://kianumaka.lhmtv.gq/play/?list=2ea8c8e3cdfc1a8d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E09
+http://kianumaka.lhmtv.gq/play/?list=4de77f6450cea74f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E10
+http://kianumaka.lhmtv.gq/play/?list=52aa6b810c8faf0c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E11
+http://kianumaka.lhmtv.gq/play/?list=168462c2f42c6d4c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E12
+http://kianumaka.lhmtv.gq/play/?list=d8aee09b2320641b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E13
+http://kianumaka.lhmtv.gq/play/?list=708344df83539d5b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E14
+http://kianumaka.lhmtv.gq/play/?list=4b6ca8ebd9bc8287&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E15
+http://kianumaka.lhmtv.gq/play/?list=c3c317859e0793da&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tahm12.jpg" group-title="Two and a Half Men", 12T-E16
+http://kianumaka.lhmtv.gq/play/?list=15f4b16b129e9878&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E01 Todo mundo odeia o Chris
+http://kianumaka.lhmtv.gq/play/?list=772f3dd743192e9c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E02 Todo mundo odeia Keisha
+http://kianumaka.lhmtv.gq/play/?list=4c1ef80f8ac980ce&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E03 Todo mundo odeia Basquetebol
+http://kianumaka.lhmtv.gq/play/?list=b5ad5d9475bca87b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E04 Todo mundo odeia linguica
+http://kianumaka.lhmtv.gq/play/?list=68d5feeffa13e985&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E05 Todo mundo odeia Mikao
+http://kianumaka.lhmtv.gq/play/?list=14a4aefb7c78532c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E06 Todo mundo odeia Halloween
+http://kianumaka.lhmtv.gq/play/?list=3e4d41f3ca44e817&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E07 Todo mundo odeia a baba
+http://kianumaka.lhmtv.gq/play/?list=63c52029425c05da&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E08 Todo mundo odeia a lavanderia
+http://kianumaka.lhmtv.gq/play/?list=5aedc7344967293a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E09 Todo mundo odeia comida de ticket
+http://kianumaka.lhmtv.gq/play/?list=3bd73a401a67bcb5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E10 Todo mundo odeia Greg
+http://kianumaka.lhmtv.gq/play/?list=15e688c39666896d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E11 Todo mundo odeia Natal
+http://kianumaka.lhmtv.gq/play/?list=31edd0216ac13518&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E12 Todo mundo odeia emprego temporario
+http://kianumaka.lhmtv.gq/play/?list=e4bcf202b91ef264&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E13 Todo mundo odeia tirar foto
+http://kianumaka.lhmtv.gq/play/?list=265160d769a2ceb7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E14 Todo mundo odeia Dia dos Namorados
+http://kianumaka.lhmtv.gq/play/?list=80e7b9a7d2549bcd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E15 Todo mundo odeia loteria
+http://kianumaka.lhmtv.gq/play/?list=220a892191c65b65&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E16 Todo mundo odeia gota
+http://kianumaka.lhmtv.gq/play/?list=e873a92b95800e96&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E17 Todo mundo odeia Funeral
+http://kianumaka.lhmtv.gq/play/?list=1e790aaaf944b407&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E18 Todo mundo odeia Corleone
+http://kianumaka.lhmtv.gq/play/?list=31ad3a0bc7796a7e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E19 Todo mundo odeia Drew
+http://kianumaka.lhmtv.gq/play/?list=e0c2e8c47fa5c4ce&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E20 Todo mundo odeia Playboy
+http://kianumaka.lhmtv.gq/play/?list=d7412a0aef7cc1a4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E21 Todo mundo odeia a prisao
+http://kianumaka.lhmtv.gq/play/?list=b5e5a733d2faf9e8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E22 Todo mundo odeia o Dia dos Pais
+http://kianumaka.lhmtv.gq/play/?list=e4e0ee030a75d350&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E01 Todo mundo odeia rejeicao
+http://kianumaka.lhmtv.gq/play/?list=df016ec564387091&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E02 Todo mundo odeia o presidente do gremio
+http://kianumaka.lhmtv.gq/play/?list=62592edbe93d30a3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E03 Todo mundo odeia eleicoes
+http://kianumaka.lhmtv.gq/play/?list=fb997c493e79e755&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E04 Todo mundo odeia um mentiroso
+http://kianumaka.lhmtv.gq/play/?list=fcbcc1dd0ca66cc7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E05 Todo mundo odeia Malvo
+http://kianumaka.lhmtv.gq/play/?list=2c3e38628c3d5061&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E06 Todo mundo odeia sistema de parceiragem
+http://kianumaka.lhmtv.gq/play/?list=976c1e5326839c52&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E07 Todo mundo odeia promessas
+http://kianumaka.lhmtv.gq/play/?list=2c62f9c53519234d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E08 Todo mundo odeia feriado
+http://kianumaka.lhmtv.gq/play/?list=d0278ac44a5e048f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E09 Todo mundo odeia supersticao
+http://kianumaka.lhmtv.gq/play/?list=c66865eee00cd9fb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E10 Todo mundo odeia Papai Noel
+http://kianumaka.lhmtv.gq/play/?list=203395bed9572bb0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E11 Todo mundo odeia ovos
+http://kianumaka.lhmtv.gq/play/?list=cdcc980c912d5d46&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E12 Todo mundo odeia os inspetores
+http://kianumaka.lhmtv.gq/play/?list=7a82ed6ddeff9de9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E13 Todo mundo odeia o inverno
+http://kianumaka.lhmtv.gq/play/?list=d99fb3351b35d294&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E14 Todo mundo odeia o substituto
+http://kianumaka.lhmtv.gq/play/?list=21afe12763ab8044&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E15 Todo mundo odeia matar aula
+http://kianumaka.lhmtv.gq/play/?list=a56ef3516eadca36&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E16 Todo mundo odeia roubar correntes
+http://kianumaka.lhmtv.gq/play/?list=7740989df603ccbb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E17 Todo mundo odeia Djs
+http://kianumaka.lhmtv.gq/play/?list=368d01287fd503c8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E18 Todo mundo odeia beisebol
+http://kianumaka.lhmtv.gq/play/?list=643f023a030b957d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E19 Todo mundo odeia apostar
+http://kianumaka.lhmtv.gq/play/?list=bd66eeed0c73b56e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E20 Todo mundo odeia piadas sujas
+http://kianumaka.lhmtv.gq/play/?list=8a375c620e37e4a4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E21 Todo mundo odeia matematica
+http://kianumaka.lhmtv.gq/play/?list=a4316c659ea8370f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E22 Todo mundo odeia o ultimo dia
+http://kianumaka.lhmtv.gq/play/?list=abc8f8a9a0e0cbac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E01 Todo mundo odeia o orientador
+http://kianumaka.lhmtv.gq/play/?list=79cf7c4270fd3269&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E02 Todo mundo odeia Caruso
+http://kianumaka.lhmtv.gq/play/?list=ebec492c1d1db94e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E03 Todo mundo odeia Dirigir
+http://kianumaka.lhmtv.gq/play/?list=69d04c682c2fc0b0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E04 Todo mundo odeia o Cachorro
+http://kianumaka.lhmtv.gq/play/?list=c58a214b2141bd2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E05 Todo mundo odeia Casa de Solteiro
+http://kianumaka.lhmtv.gq/play/?list=b111edf542c3b75e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E06 Todo mundo odeia Bed-Stuy
+http://kianumaka.lhmtv.gq/play/?list=c736dc53327dc261&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E07 Todo mundo odeia hospedes
+http://kianumaka.lhmtv.gq/play/?list=b8460fb83d26fe73&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E08 Todo mundo odeia o novato
+http://kianumaka.lhmtv.gq/play/?list=73d79174e56a2897&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E09 Todo mundo odeia Kwanzaa
+http://kianumaka.lhmtv.gq/play/?list=acafc2c1a498db8c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E10 Todo mundo odeia salario minimo
+http://kianumaka.lhmtv.gq/play/?list=17490e2d33745a53&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E11 Todo mundo odeia a Rodoviaria
+http://kianumaka.lhmtv.gq/play/?list=b2f67ddf0d4c4c8a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E12 Todo mundo odeia Bad Boys
+http://kianumaka.lhmtv.gq/play/?list=4da8312140cbc5c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E13 Todo mundo odeia o Primeiro Beijo
+http://kianumaka.lhmtv.gq/play/?list=f25b0f461f40bcc3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E14 Todo mundo odeia a Pascoa
+http://kianumaka.lhmtv.gq/play/?list=d67a7966e397a9ca&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E15 Todo mundo odeia Gretzky
+http://kianumaka.lhmtv.gq/play/?list=b7d24586f9722778&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E16 Todo mundo odeia o DFN
+http://kianumaka.lhmtv.gq/play/?list=c808abdc45ebf730&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E17 Todo mundo odeia Ex-presidiario
+http://kianumaka.lhmtv.gq/play/?list=938314ba2c048126&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E18 Todo mundo odeia o Dia da Terra
+http://kianumaka.lhmtv.gq/play/?list=ccc9c222ede327a0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E19 Todo mundo odeia ser Descolado
+http://kianumaka.lhmtv.gq/play/?list=e7d75211e41a9c21&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E20 Todo mundo odeia o Baile da Nona Serie
+http://kianumaka.lhmtv.gq/play/?list=88062d8f7bdfc281&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E21 Todo mundo odeia o Dia das Maes
+http://kianumaka.lhmtv.gq/play/?list=898673e348a37649&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E22 Todo mundo odeia Odeia Formatura
+http://kianumaka.lhmtv.gq/play/?list=d24239384cc43d4e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E01 Todo mundo odeia Tattaglia
+http://kianumaka.lhmtv.gq/play/?list=cc7ae8964e494cd7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E02 Todo mundo odeia Bolo
+http://kianumaka.lhmtv.gq/play/?list=b2e148d6b8781f33&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E03 Todo mundo odeia Baile
+http://kianumaka.lhmtv.gq/play/?list=c7af63cab178edfd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E04 Todo mundo odeia Professora de Literatura
+http://kianumaka.lhmtv.gq/play/?list=5d4540f07583ceac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E05 Todo mundo odeia o Meu Brother
+http://kianumaka.lhmtv.gq/play/?list=7b836e86ec4f7a10&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E06 Todo mundo odeia o Doc
+http://kianumaka.lhmtv.gq/play/?list=1c00ce26b5e7bab0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E07 Todo mundo odeia X-9
+http://kianumaka.lhmtv.gq/play/?list=c5b5f29736eb4801&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E08 Todo mundo odeia Garotas Altas e Magras
+http://kianumaka.lhmtv.gq/play/?list=728ec5a3f8faefe3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E09 Todo mundo odeia o James
+http://kianumaka.lhmtv.gq/play/?list=2f2299c525de122f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E10 Todo mundo odeia Vespera do Ano Novo
+http://kianumaka.lhmtv.gq/play/?list=9475f41be63ba3d3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E11 Todo mundo odeia o Sr. Levine
+http://kianumaka.lhmtv.gq/play/?list=f8d8044af8567384&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E12 Todo mundo odeia Lutadores Fracassados
+http://kianumaka.lhmtv.gq/play/?list=c4f7bbdf0182c162&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E13 Todo mundo odeia Identidades Falsas
+http://kianumaka.lhmtv.gq/play/?list=5ad90453bff2f70f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E14 Todo mundo odeia Exames para Faculdade
+http://kianumaka.lhmtv.gq/play/?list=f4a88167d204a1be&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E15 Todo mundo odeia Boxe
+http://kianumaka.lhmtv.gq/play/?list=ef71e3971f79e9fa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E16 Todo mundo odeia Lasanha
+http://kianumaka.lhmtv.gq/play/?list=be272b9bd4d2ae06&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E17 Todo mundo odeia Semana da Primavera
+http://kianumaka.lhmtv.gq/play/?list=de1bdabe62bd5f71&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E18 Todo mundo odeia Carro
+http://kianumaka.lhmtv.gq/play/?list=33337b3765de7888&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E19 Todo mundo odeia Lavar a Louca
+http://kianumaka.lhmtv.gq/play/?list=d0825535055279f3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E20 Todo mundo odeia Tasha
+http://kianumaka.lhmtv.gq/play/?list=d61d068e9dcc14df&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E21 Todo mundo odeia Ameacas de Bomba
+http://kianumaka.lhmtv.gq/play/?list=2b410c78e4723d24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E22 Todo mundo odeia o Supletivo
+http://kianumaka.lhmtv.gq/play/?list=dbbbfa317017052c&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E01 Piloto Supergirl
+http://kianumaka.lhmtv.gq/play/?list=59ee85a115b21f2e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E02 Mais Fortes Juntos 
+http://kianumaka.lhmtv.gq/play/?list=5b5b5da57340982d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E03 Lutar ou Fugir
+http://kianumaka.lhmtv.gq/play/?list=4a172a45b553c09c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E04 Como ela faz isso?
+http://kianumaka.lhmtv.gq/play/?list=122936b37871e92&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E05 Curto-Circuito
+http://kianumaka.lhmtv.gq/play/?list=c318ad32c4a40327&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E06 Cara Vermelha
+http://kianumaka.lhmtv.gq/play/?list=69ae988e619659a9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E07 Humana por um dia
+http://kianumaka.lhmtv.gq/play/?list=55acc7d0a29ec0e8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E08 Aquisicao Hostil
+http://kianumaka.lhmtv.gq/play/?list=a2d56989d3916c48&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E09 Lacos de sangue
+http://kianumaka.lhmtv.gq/play/?list=476add1da2c86a51&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E10 Coisas Infantis
+http://kianumaka.lhmtv.gq/play/?list=1d52a43a4dd98a52&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E11 Estranho visitante de outro planeta
+http://kianumaka.lhmtv.gq/play/?list=e49045aff4f16100&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E12 Bizarro 
+http://kianumaka.lhmtv.gq/play/?list=902ae8db0903b93c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E13 Pela garota que tem tudo
+http://kianumaka.lhmtv.gq/play/?list=ecf40b1114d5395a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E14 Verdade. Justica e o jeito americano
+http://kianumaka.lhmtv.gq/play/?list=e426ce02cebc0bb6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E15 Solidao
+http://kianumaka.lhmtv.gq/play/?list=8ad62be5935cbaa6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E16 Queda
+http://kianumaka.lhmtv.gq/play/?list=9ee2d1da8d85b1b6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E17 O Cacador
+http://kianumaka.lhmtv.gq/play/?list=5adaed853d2dd8e5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E18 Os Melhores dos mundos
+http://kianumaka.lhmtv.gq/play/?list=8c3210c1b5bec5ee&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E19 Myriad
+http://kianumaka.lhmtv.gq/play/?list=7f92c18ff202b26b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl1.jpg" group-title="Supergirl", 1T-E20 Melhores Anjos
+http://kianumaka.lhmtv.gq/play/?list=cd349099b910b250&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E01 As Aventuras de Supergirl
+http://kianumaka.lhmtv.gq/play/?list=1bd851831a8f1439&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E02 Os ultimos filhos de Krypton
+http://kianumaka.lhmtv.gq/play/?list=20d28d76ef4a3b7f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E03 Bem-Vindo a Terra
+http://kianumaka.lhmtv.gq/play/?list=61ea2093bff5324b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E04 O Palacio em Chamas
+http://kianumaka.lhmtv.gq/play/?list=1cbc9b4794a45076&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E05 Havera um futuro
+http://kianumaka.lhmtv.gq/play/?list=feaeb87c6b494dd0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E06 Mudanca
+http://kianumaka.lhmtv.gq/play/?list=12bb2c012545b864&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E07 O Lugar mais sombrio
+http://kianumaka.lhmtv.gq/play/?list=7898989e38e51388&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E08 Medusa 
+http://kianumaka.lhmtv.gq/play/?list=f7a6b24c3e7f48e4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E09 Supergirl vive
+http://kianumaka.lhmtv.gq/play/?list=d80bc333bc85603b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E10 Nos Podemos ser Herois
+http://kianumaka.lhmtv.gq/play/?list=1ae456eacc1fbb74&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E11 As Cronicas Marcianas
+http://kianumaka.lhmtv.gq/play/?list=1784ed8de291fe6d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E12 Luthors
+http://kianumaka.lhmtv.gq/play/?list=2be9eac3e1cc4a3c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E13 Sr. & Sra. Mxyzptlk
+http://kianumaka.lhmtv.gq/play/?list=ae5991bb5f3d504c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E14 Volta para Casa
+http://kianumaka.lhmtv.gq/play/?list=7dc23280a9d212d4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E15 Exodo
+http://kianumaka.lhmtv.gq/play/?list=81d7063172a1a114&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E16 Desafortunada
+http://kianumaka.lhmtv.gq/play/?list=6546aec425daebc5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E17 Sol Distante
+http://kianumaka.lhmtv.gq/play/?list=304482a593da914d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E18 Reporter Craque
+http://kianumaka.lhmtv.gq/play/?list=cd94d35fb5b9ffff&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E19 Alex
+http://kianumaka.lhmtv.gq/play/?list=ccb4a33f967e92d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E20 Cidade de criancas perdidas
+http://kianumaka.lhmtv.gq/play/?list=9af8665e700554f1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E21 Resistir
+http://kianumaka.lhmtv.gq/play/?list=b62b44e497581f4c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl2.jpg" group-title="Supergirl", 2T-E22 Mesmo Assim. Ela Persistiu
+http://kianumaka.lhmtv.gq/play/?list=80dc230ca58badfc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E01 Garota de Aco
+http://kianumaka.lhmtv.gq/play/?list=eceec9d02358b707&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E02 Gatilho
+http://kianumaka.lhmtv.gq/play/?list=fe31f2cd8d2ab25e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E03 Longe da Arvore
+http://kianumaka.lhmtv.gq/play/?list=4de0604c50fc3af6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E04 Os Fies
+http://kianumaka.lhmtv.gq/play/?list=a5322a30fd04f626&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E05 Dano
+http://kianumaka.lhmtv.gq/play/?list=1c782a8f2b1d9349&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E06 Midvale
+http://kianumaka.lhmtv.gq/play/?list=2c0a639e7e3fb2a6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E07 Acorde
+http://kianumaka.lhmtv.gq/play/?list=18f2ecd5aa10c999&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E08 Crise na Terra-X (Parte 1) 
+http://kianumaka.lhmtv.gq/play/?list=1995f92db66f2b9f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E09 Regia
+http://kianumaka.lhmtv.gq/play/?list=4bb0c057e8e44d1d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E10 Legiao de Super-Herois
+http://kianumaka.lhmtv.gq/play/?list=17d71fa633fd6a6d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E11 Fort Rozz
+http://kianumaka.lhmtv.gq/play/?list=747b6e7518736ff6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E12 Para o bem 
+http://kianumaka.lhmtv.gq/play/?list=e7a518cb49af6aaf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E13 Ambos os lados agora
+http://kianumaka.lhmtv.gq/play/?list=80e425939c40fd27&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E14 Schott Atraves do Coracao
+http://kianumaka.lhmtv.gq/play/?list=5607755af31f940a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E15 Em Busca do Tempo Perdido
+http://kianumaka.lhmtv.gq/play/?list=92efe288278b7e23&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E16 De Duas Mentes
+http://kianumaka.lhmtv.gq/play/?list=9b869aef8d744d9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E17 Trindade
+http://kianumaka.lhmtv.gq/play/?list=33f692da1c92d73e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E18 Abrigo da Tempestade
+http://kianumaka.lhmtv.gq/play/?list=81d3136e46097377&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E19 O Fanatico
+http://kianumaka.lhmtv.gq/play/?list=da7b2b563df5ff68&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E20 O Lado Negro da Lua
+http://kianumaka.lhmtv.gq/play/?list=1152e24fb32d9616&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3TLEG-E21 Nao e o Kansas
+http://kianumaka.lhmtv.gq/play/?list=6b18ed33807e8e04&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E22 Faça Reinar
+http://kianumaka.lhmtv.gq/play/?list=611975cd29214df9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl3.jpg" group-title="Supergirl", 3T-E23 Batalhas Perdidas e Vencidas
+http://kianumaka.lhmtv.gq/play/?list=5c91376d70446015&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E01 American Alien
+http://kianumaka.lhmtv.gq/play/?list=130dac023ca08814&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E02 Cair
+http://kianumaka.lhmtv.gq/play/?list=ae8c6448720e901c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E03 Homem de Aco
+http://kianumaka.lhmtv.gq/play/?list=4e0e9e399ef94ce3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E04 Ahimsa
+http://kianumaka.lhmtv.gq/play/?list=fb466206b42c1698&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E05 Parasita Perdida
+http://kianumaka.lhmtv.gq/play/?list=4462cbc006b83b89&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E06 Chamada a acao
+http://kianumaka.lhmtv.gq/play/?list=22d7ae336b14521f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E07 Em vez disso. o anjo caido
+http://kianumaka.lhmtv.gq/play/?list=b6f58f70840718b1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E08 Bunker Hill
+http://kianumaka.lhmtv.gq/play/?list=c0c31b5cc215450f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E09 Elseworlds Part 3
+http://kianumaka.lhmtv.gq/play/?list=af9d3101c811bd8f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E10 Mentes suspeitas 
+http://kianumaka.lhmtv.gq/play/?list=25d114143bad7a68&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E11 Memoria do Sangue
+http://kianumaka.lhmtv.gq/play/?list=a7ee0f6017c3429b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E12 Menagerie
+http://kianumaka.lhmtv.gq/play/?list=43c445fc6ab7e362&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E13
+http://kianumaka.lhmtv.gq/play/?list=6309c3959a41d03f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E14
+http://kianumaka.lhmtv.gq/play/?list=07c99219dcbf17fc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E15
+http://kianumaka.lhmtv.gq/play/?list=a6c02f3b4701ad12&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E16
+http://kianumaka.lhmtv.gq/play/?list=519ad1d8e28b9c6c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E17
+http://kianumaka.lhmtv.gq/play/?list=1a3b8a8c1b39cc2e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E18
+http://kianumaka.lhmtv.gq/play/?list=184468e7f8cacf98&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl4.jpg" group-title="Supergirl", 4T-E19
+http://kianumaka.lhmtv.gq/play/?list=e0007cd9031f2f20&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E01
+http://kianumaka.lhmtv.gq/play/?list=9eab72afd9cda44b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E02
+http://kianumaka.lhmtv.gq/play/?list=412ce74c4dcd14bb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E03
+http://kianumaka.lhmtv.gq/play/?list=d7b770ca540b8224&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E04
+http://kianumaka.lhmtv.gq/play/?list=73928c500c8b25c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E05
+http://kianumaka.lhmtv.gq/play/?list=563bed1625836796&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E06
+http://kianumaka.lhmtv.gq/play/?list=3f405366ea93cc25&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E07
+http://kianumaka.lhmtv.gq/play/?list=420b49c77d88676d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E08
+http://kianumaka.lhmtv.gq/play/?list=c0c31b5cc215450f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E09
+http://kianumaka.lhmtv.gq/play/?list=bae08f1fab6e969f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E10
+http://kianumaka.lhmtv.gq/play/?list=c97866b9a8e79e33&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E11
+http://kianumaka.lhmtv.gq/play/?list=11d9ddd34ec6a081&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E12
+http://kianumaka.lhmtv.gq/play/?list=2907163157fe3904&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E13
+http://kianumaka.lhmtv.gq/play/?list=6bf08dfcfda1e1c7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E14
+http://kianumaka.lhmtv.gq/play/?list=246126191cfc4add&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/supergirl5.jpg" group-title="Supergirl", 5T-E15
+http://kianumaka.lhmtv.gq/play/?list=5802c9a21410d426&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=1a79329809cad56d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=a18f83b86fcb3c52&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=861fbf59957d310e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=c5cbe6d8ce20fe8b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=90c3fc9eb073258b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=3b39b491ddabaaed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=39c2d424df8c6c31&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation1.jpg" group-title="Séries 2021", Sex Education 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=d3eb00c6c8103833&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=a4abc71d850e3742&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=6bc5f9856aea970a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=185daf28fb838872&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=724d697ef2a8e667&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=db964a439eab9e89&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=bcaccdbbd0a45e4d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=787dd9d50086d3dc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/seducation2.jpg" group-title="Séries 2021", Sex Education 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=5335732fcd910c49&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=8531f31acb1593a6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=49c3a0cb70d0a165&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=5ffdc5e566802001&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=3d5cf42d447bd684&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=b83730d6ab2d8bbf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=4c44f610784c7952&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=997bbbff069a3081&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=a45e5eca212cb116&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E09
+http://kianumaka.lhmtv.gq/play/?list=7f6df8bbe4fe3881&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E10
+http://kianumaka.lhmtv.gq/play/?list=327da3e68b3223f1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E11
+http://kianumaka.lhmtv.gq/play/?list=5830220dbcc6841d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E12
+http://kianumaka.lhmtv.gq/play/?list=ed21791112e4f3bc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E13
+http://kianumaka.lhmtv.gq/play/?list=92319e403f0a5b17&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E14
+http://kianumaka.lhmtv.gq/play/?list=53a92283f0dbfb7f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E15
+http://kianumaka.lhmtv.gq/play/?list=d9a48aaaadfac720&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E16
+http://kianumaka.lhmtv.gq/play/?list=b155e3a5cf65326e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E17
+http://kianumaka.lhmtv.gq/play/?list=10642f7c340767a6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E18
+http://kianumaka.lhmtv.gq/play/?list=805968319d16215e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E19
+http://kianumaka.lhmtv.gq/play/?list=54beb471d44b6c7f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E20
+http://kianumaka.lhmtv.gq/play/?list=4f9546b3b081e669&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E21
+http://kianumaka.lhmtv.gq/play/?list=602e1a0a500c5708&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak1.jpg" group-title="Prison Break", 1T-E22
+http://kianumaka.lhmtv.gq/play/?list=c658f740da737782&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=905f9cd133073346&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=d48bdf9d8a4472c4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=24d118e92da3b380&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=403639487c0807ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=ebc5988a7d69e0e0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=f5db619fae117e54&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=594a91d362908277&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=233328b11ad5b3c6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E09
+http://kianumaka.lhmtv.gq/play/?list=0d495026a048d671&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E10
+http://kianumaka.lhmtv.gq/play/?list=35c66c44f85031f0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E11
+http://kianumaka.lhmtv.gq/play/?list=f7c2b431885547aa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E12
+http://kianumaka.lhmtv.gq/play/?list=6a9c5b5ea71e3481&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E13
+http://kianumaka.lhmtv.gq/play/?list=857d6c71c7e8cc62&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E14
+http://kianumaka.lhmtv.gq/play/?list=55f50b71131c695b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E15
+http://kianumaka.lhmtv.gq/play/?list=244e71c831060a94&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E16
+http://kianumaka.lhmtv.gq/play/?list=096e2def98b15492&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E17
+http://kianumaka.lhmtv.gq/play/?list=c9c4a26f7ba249c8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E18
+http://kianumaka.lhmtv.gq/play/?list=973b4dcd013f439b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E19
+http://kianumaka.lhmtv.gq/play/?list=b4aa6336d8d0f0cb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E20
+http://kianumaka.lhmtv.gq/play/?list=b4ca4c3aa93f1357&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E21
+http://kianumaka.lhmtv.gq/play/?list=588d7585719c5a43&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak2.jpg" group-title="Prison Break", 2T-E22
+http://kianumaka.lhmtv.gq/play/?list=92870d06935365e8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E01
+http://kianumaka.lhmtv.gq/play/?list=b3e976691dbb49c2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E02
+http://kianumaka.lhmtv.gq/play/?list=3a47ff3c3fefdb40&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E03
+http://kianumaka.lhmtv.gq/play/?list=c3f974bfd31dba88&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=ebe849ae6ba783d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=b64619e8cb3ae7cf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=41d7d2ee74a9059&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=72322765380f798f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=9107f92958b5674e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E09
+http://kianumaka.lhmtv.gq/play/?list=da37592d9b359ee6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E10
+http://kianumaka.lhmtv.gq/play/?list=aca0bbe1406715d9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E11
+http://kianumaka.lhmtv.gq/play/?list=f45b86bcb9e9ed73&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E12
+http://kianumaka.lhmtv.gq/play/?list=f5b6b1e69be7f237&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak3.jpg" group-title="Prison Break", 3T-E13
+http://kianumaka.lhmtv.gq/play/?list=a7ca8307be9fafdc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E01
+http://kianumaka.lhmtv.gq/play/?list=0037360fb4c33a14&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E02
+http://kianumaka.lhmtv.gq/play/?list=2ecd636666725292&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E03
+http://kianumaka.lhmtv.gq/play/?list=53413b2901cb0f13&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E04
+http://kianumaka.lhmtv.gq/play/?list=49d95d005bd7f9d0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E05
+http://kianumaka.lhmtv.gq/play/?list=9e04cab6ee3128a6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E06
+http://kianumaka.lhmtv.gq/play/?list=98f76fe4af748fd4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E07
+http://kianumaka.lhmtv.gq/play/?list=269387f413d368c3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E08
+http://kianumaka.lhmtv.gq/play/?list=53f668473f4f7ef3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E09
+http://kianumaka.lhmtv.gq/play/?list=3dd3ffbc3cd136bb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E10
+http://kianumaka.lhmtv.gq/play/?list=2f5c46e771c5f28f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E11
+http://kianumaka.lhmtv.gq/play/?list=bc0bf187eb347adf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E12
+http://kianumaka.lhmtv.gq/play/?list=9e29e5b7d1ac39e8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E13
+http://kianumaka.lhmtv.gq/play/?list=690b67d1fb00bc99&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E14
+http://kianumaka.lhmtv.gq/play/?list=c9044305d6dd7490&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E15
+http://kianumaka.lhmtv.gq/play/?list=0ba8503f9329cede&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E16
+http://kianumaka.lhmtv.gq/play/?list=d8c241db2e7448a4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E17
+http://kianumaka.lhmtv.gq/play/?list=64bee4e316197573&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E18
+http://kianumaka.lhmtv.gq/play/?list=20caedff87639208&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E19
+http://kianumaka.lhmtv.gq/play/?list=ea990359fbca0dcb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E20
+http://kianumaka.lhmtv.gq/play/?list=b04be992102e86be&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E21
+http://kianumaka.lhmtv.gq/play/?list=602d076b0296ce99&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak4.jpg" group-title="Prison Break", 4T-E22
+http://kianumaka.lhmtv.gq/play/?list=6b2e6fe387f612a7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E01
+http://kianumaka.lhmtv.gq/play/?list=f27801e17d853828&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E02
+http://kianumaka.lhmtv.gq/play/?list=edf7b84780a1e49a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E03
+http://kianumaka.lhmtv.gq/play/?list=ebda430deefc4983&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E04
+http://kianumaka.lhmtv.gq/play/?list=3a5770a07e873904&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E05
+http://kianumaka.lhmtv.gq/play/?list=0575730e59174c87&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E06
+http://kianumaka.lhmtv.gq/play/?list=098a3730a78fac9e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E07
+http://kianumaka.lhmtv.gq/play/?list=18b53442de68ab80&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E08
+http://kianumaka.lhmtv.gq/play/?list=d3c103fea445a3d1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/pbreak5.jpg" group-title="Prison Break", 5T-E09
+http://kianumaka.lhmtv.gq/play/?list=a64b60c020326dbf&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=f357f4ace22d2a7e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=f48afcde81631986&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=3406d6e103759412&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=6e3afe6e9262e98e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=b50de1616fa10ede&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=49589178caa95c14&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=92aa9eabb8e9ac4c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=e70d8166ca746d9e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E09
+http://kianumaka.lhmtv.gq/play/?list=a51a6873fec1b091&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E10
+http://kianumaka.lhmtv.gq/play/?list=516cdb6c0628f1bb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E11
+http://kianumaka.lhmtv.gq/play/?list=20cfe0c3fde3af5e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E12
+http://kianumaka.lhmtv.gq/play/?list=02da7868875e5c84&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E13
+http://kianumaka.lhmtv.gq/play/?list=e19ab84c03c671b2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E14
+http://kianumaka.lhmtv.gq/play/?list=f14c57bb07752f1b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E15
+http://kianumaka.lhmtv.gq/play/?list=18740fc4b74a296b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E16
+http://kianumaka.lhmtv.gq/play/?list=2c6059cb7847ac14&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E17
+http://kianumaka.lhmtv.gq/play/?list=70abd5de390d3a2f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E18
+http://kianumaka.lhmtv.gq/play/?list=e7240374b669a3bc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E19
+http://kianumaka.lhmtv.gq/play/?list=13c2d2eee67fbcc3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E20
+http://kianumaka.lhmtv.gq/play/?list=8edb19a21eb7783c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E21
+http://kianumaka.lhmtv.gq/play/?list=3ac07fdfba36f237&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E22
+http://kianumaka.lhmtv.gq/play/?list=bb33114446d240e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E23
+http://kianumaka.lhmtv.gq/play/?list=209fdad391c358e1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl1.jpg" group-title="New Girl", 1T-E24
+http://kianumaka.lhmtv.gq/play/?list=d78d4e5a8b0a6ca0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=630f875b78271171&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=fa64f2403ca58f21&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=de25de013f09037d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=9307f0c82967b845&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=2a6ca8f5abf7965e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=d008742a1ebf905c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=3dbef13b137a2b94&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=6629e7274c6b3357&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E09
+http://kianumaka.lhmtv.gq/play/?list=1e57623d437ccf43&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E10
+http://kianumaka.lhmtv.gq/play/?list=fc4ba7e3b213479a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E11
+http://kianumaka.lhmtv.gq/play/?list=4d43a0b77efdc7fe&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E12
+http://kianumaka.lhmtv.gq/play/?list=53dfb29e000af0de&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E13
+http://kianumaka.lhmtv.gq/play/?list=524ef5c588390fb9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E14
+http://kianumaka.lhmtv.gq/play/?list=a43fb7b16ee89019&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E15
+http://kianumaka.lhmtv.gq/play/?list=bc9287de76fa7fc3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E16
+http://kianumaka.lhmtv.gq/play/?list=c0924d44b2d5b625&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E17
+http://kianumaka.lhmtv.gq/play/?list=3665c490d381ac0a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E18
+http://kianumaka.lhmtv.gq/play/?list=111c93f197d35de6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E19
+http://kianumaka.lhmtv.gq/play/?list=a1bc2b97f3947b08&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E20
+http://kianumaka.lhmtv.gq/play/?list=4fe8b643ff7f33a9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E21
+http://kianumaka.lhmtv.gq/play/?list=6e093f78eb529233&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E22
+http://kianumaka.lhmtv.gq/play/?list=95657938b3ef015b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E23
+http://kianumaka.lhmtv.gq/play/?list=63e44745354c731c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E24
+http://kianumaka.lhmtv.gq/play/?list=66de8b6d5a1e017e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl2.jpg" group-title="New Girl", 2T-E25
+http://kianumaka.lhmtv.gq/play/?list=bfe6ad954812e370&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E01
+http://kianumaka.lhmtv.gq/play/?list=3f3799130be3bc74&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E02
+http://kianumaka.lhmtv.gq/play/?list=beb60f424fe68d62&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E03
+http://kianumaka.lhmtv.gq/play/?list=6ef7f5e69176da9f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=17791b2d35b373a6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=c04ca244c016177d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=4c806185f8f05309&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=900fe5c25256661a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=173697337f2b4d27&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E09
+http://kianumaka.lhmtv.gq/play/?list=f8620cadb27da4ae&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E10
+http://kianumaka.lhmtv.gq/play/?list=9b699fd6a29aa7eb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E11
+http://kianumaka.lhmtv.gq/play/?list=45566eae60d7db40&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E12
+http://kianumaka.lhmtv.gq/play/?list=a2969baf5861aec1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E13
+http://kianumaka.lhmtv.gq/play/?list=ae4b8d5167aff4b9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E14
+http://kianumaka.lhmtv.gq/play/?list=18e7f0e324ce88e0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E15
+http://kianumaka.lhmtv.gq/play/?list=506d312480147d59&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E16
+http://kianumaka.lhmtv.gq/play/?list=b508d69c5b0b1da6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E17
+http://kianumaka.lhmtv.gq/play/?list=a641070418c8a15f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E18
+http://kianumaka.lhmtv.gq/play/?list=bb1f29f960861d70&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E19
+http://kianumaka.lhmtv.gq/play/?list=e9574302f3ef7c50&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E20
+http://kianumaka.lhmtv.gq/play/?list=aaee7cf53040dea5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E21
+http://kianumaka.lhmtv.gq/play/?list=f46e5c383739a90f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E22
+http://kianumaka.lhmtv.gq/play/?list=d9e0ab19401f4992&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl3.jpg" group-title="New Girl", 3T-E23
+http://kianumaka.lhmtv.gq/play/?list=2d020551409e2248&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E01
+http://kianumaka.lhmtv.gq/play/?list=92eeba9ec9aaedb2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E02
+http://kianumaka.lhmtv.gq/play/?list=94f18a52401484a3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E03
+http://kianumaka.lhmtv.gq/play/?list=1623054e83c68032&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E04
+http://kianumaka.lhmtv.gq/play/?list=9c66df3654390c92&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E05
+http://kianumaka.lhmtv.gq/play/?list=d66bcb93a3fd1ac6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E06
+http://kianumaka.lhmtv.gq/play/?list=bac2725c222868cd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E07
+http://kianumaka.lhmtv.gq/play/?list=466ff4c3ab6cb19c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E08
+http://kianumaka.lhmtv.gq/play/?list=64f10687beb9a02c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E09
+http://kianumaka.lhmtv.gq/play/?list=e6317a6af6e9ac47&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E10
+http://kianumaka.lhmtv.gq/play/?list=48c6349fc774e977&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E11
+http://kianumaka.lhmtv.gq/play/?list=71f42afb08b15c15&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E12
+http://kianumaka.lhmtv.gq/play/?list=76c9ed53eaf74998&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E13
+http://kianumaka.lhmtv.gq/play/?list=10bd349aefbaf907&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E14
+http://kianumaka.lhmtv.gq/play/?list=3813610a194d7bd5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E15
+http://kianumaka.lhmtv.gq/play/?list=a68a50aa16141727&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E16
+http://kianumaka.lhmtv.gq/play/?list=3f37e67748375598&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E17
+http://kianumaka.lhmtv.gq/play/?list=e494ea44a86a0957&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E18
+http://kianumaka.lhmtv.gq/play/?list=27d0df7859de60ed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E19
+http://kianumaka.lhmtv.gq/play/?list=f4db173bf6861dc6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E20
+http://kianumaka.lhmtv.gq/play/?list=ee47ed379b93aa7b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E21
+http://kianumaka.lhmtv.gq/play/?list=4c502334109771d6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/ngirl4.jpg" group-title="New Girl", 4T-E22
+http://kianumaka.lhmtv.gq/play/?list=b45e9f9e3ad81ed1&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E01 
+http://kianumaka.lhmtv.gq/play/?list=3afe2a753fbc1976&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E02
+http://kianumaka.lhmtv.gq/play/?list=b2aad8e8e17b18bb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E03
+http://kianumaka.lhmtv.gq/play/?list=bc8c9b1345784a29&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=9c8219129fa7f8cc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=ce66421554d79f1e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=3d9df097d9312d4e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=3a436df37b7fee6f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=bc77ce4bcdc1af24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E09
+http://kianumaka.lhmtv.gq/play/?list=07d579af42fd0564&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot3.jpg" group-title="Mr. Robot", 3T-E10
+http://kianumaka.lhmtv.gq/play/?list=0885c873d633bb01&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E01 
+http://kianumaka.lhmtv.gq/play/?list=b94ac1dba4706c66&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E02
+http://kianumaka.lhmtv.gq/play/?list=2a9be07d21328f54&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E03
+http://kianumaka.lhmtv.gq/play/?list=5e349a40fab674c7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E04
+http://kianumaka.lhmtv.gq/play/?list=581ef1d983cb2dad&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E05
+http://kianumaka.lhmtv.gq/play/?list=f5a0ed8583eb89c9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E06
+http://kianumaka.lhmtv.gq/play/?list=5879f459c0b3edf3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E07
+http://kianumaka.lhmtv.gq/play/?list=ef66c6716da088d0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E08
+http://kianumaka.lhmtv.gq/play/?list=85b6d2addaedc886&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mrrobot4.jpg" group-title="Mr. Robot", 4TLEG-E09
+http://kianumaka.lhmtv.gq/play/?list=3deeb2266c1a8b33&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=96e7da032a7d68a2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=203ed0a7a598fdc5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=e290d7de88e0e58c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=160531708e65c928&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=49ee940e847a76c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=f424aed8d9f48b87&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=ff8a7a02dd8a45f1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=99d8fde1f4f0481b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=9660a369196cc5dd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=fc5593a37c6c59ff&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=ea56e0ba6103866f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=34966598685668cf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=852f711575931d24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=8bccb26edc3c70c7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=1666107f4e107bd6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=3dc5ebf6e51d14a5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E01
+http://kianumaka.lhmtv.gq/play/?list=6be8ad44fc6a5461&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E02
+http://kianumaka.lhmtv.gq/play/?list=764f15e2e72927b4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E03
+http://kianumaka.lhmtv.gq/play/?list=24529d888f14b8de&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=14b77805f42fc6ee&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=1be0fad4c5f33e81&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=49711e9c127c34d0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=55fae775db18a0ea&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=fa8da89df8500854&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E01 O Gringo Louco
+http://kianumaka.lhmtv.gq/play/?list=38aba7f5545036ab&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E02 Dancando em setembro
+http://kianumaka.lhmtv.gq/play/?list=bab401fc1d0c1aa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E03 Nascido para correr
+http://kianumaka.lhmtv.gq/play/?list=67dcee54edf1ef56&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E04 Risco de voo
+http://kianumaka.lhmtv.gq/play/?list=c4fd947e115e5fab&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E05 Deixe-o andar
+http://kianumaka.lhmtv.gq/play/?list=c56482de9ce1c1db&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E06 Corrida do Ouro
+http://kianumaka.lhmtv.gq/play/?list=179e5c494862daac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E07 Aves
+http://kianumaka.lhmtv.gq/play/?list=fb2ba01aa9ece217&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E08 Fork Getta Bout It
+http://kianumaka.lhmtv.gq/play/?list=da7b0657286034ac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E09 Tolos se Apressam
+http://kianumaka.lhmtv.gq/play/?list=d207ae6bcccf012c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E10 Destrua os Corredores
+http://kianumaka.lhmtv.gq/play/?list=9c54f58357fdee24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E11 Dinheiro engracado
+http://kianumaka.lhmtv.gq/play/?list=97bbdb73f139fd43&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E12 Diggin Up Dirt
+http://kianumaka.lhmtv.gq/play/?list=22c08c8b03097ee6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E13 Melhor vida atraves da quimica
+http://kianumaka.lhmtv.gq/play/?list=866a60339dbd8ad1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E14 Double Shot of Baileys
+http://kianumaka.lhmtv.gq/play/?list=30d2a4023bf89941&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E15 Uma Rute Inconveniente
+http://kianumaka.lhmtv.gq/play/?list=593674ac51eb99f0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E16 Cruel
+http://kianumaka.lhmtv.gq/play/?list=b96d994aa38da11c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E17 O par estranho
+http://kianumaka.lhmtv.gq/play/?list=550491fbcfca24c2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E18 Frankie chega a Hollywood
+http://kianumaka.lhmtv.gq/play/?list=9a6b75ffe5852769&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E19 Leo Getz engatado
+http://kianumaka.lhmtv.gq/play/?list=ad0daab05ee67991&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E20 Jesses Girl
+http://kianumaka.lhmtv.gq/play/?list=35171b2a2f2b69d8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E21 Lacos familiares
+http://kianumaka.lhmtv.gq/play/?list=c110693ded262515&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm2.jpg" group-title="Maquina Mortifera", 2T-E22 Mais um dia
+http://kianumaka.lhmtv.gq/play/?list=16b5ac34458a9426&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E01 
+http://kianumaka.lhmtv.gq/play/?list=8c4fb0c4d6d6a531&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E02 
+http://kianumaka.lhmtv.gq/play/?list=22f8ee25169e44eb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E03 
+http://kianumaka.lhmtv.gq/play/?list=674a6fe481099f46&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=7304bc31200d78e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=8b9faaafd619cc8a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=65a8f7b1c2b4fce8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=67acbe03f8054234&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=22e0dd2f59db2733&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E09
+http://kianumaka.lhmtv.gq/play/?list=2dc2e01f01597c8c&LHMtv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E10
+http://kianumaka.lhmtv.gq/play/?list=1d95ef56901d0616&LHMtv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E11
+http://kianumaka.lhmtv.gq/play/?list=1faf77b6f4df16f2&LHMtv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E12
+http://kianumaka.lhmtv.gq/play/?list=20741dae08ae665a&LHMtv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E13
+http://kianumaka.lhmtv.gq/play/?list=9a9364f999b1aefc&LHMtv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E14
+http://kianumaka.lhmtv.gq/play/?list=97cc7ff0a5db8d98&LHMtv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/maqm3.jpg" group-title="Maquina Mortifera", 3T-E15
+http://kianumaka.lhmtv.gq/play/?list=fbfd031a002f193c&LHMtv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=f7e2e945ad522cf8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=c8a5e446c0bca516&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=c5550d808f279dda&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=57cb0c8b36ca8f64&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=105a32beb3aee098&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=f645657552301954&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=8912543c8c39e554&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=d3eefe7d5ba39cdc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E09
+http://kianumaka.lhmtv.gq/play/?list=5e64ff704e80a511&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E10
+http://kianumaka.lhmtv.gq/play/?list=c127c29529556adc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E11
+http://kianumaka.lhmtv.gq/play/?list=b80da09d0c5db793&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E12
+http://kianumaka.lhmtv.gq/play/?list=c52b4fe793c5e73d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl1.jpg" group-title="Lost Girl", 1T-E13
+http://kianumaka.lhmtv.gq/play/?list=84ef5c48f7324991&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=a65c1b841d807dcc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=5c839c76b4e81638&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=273012fb5add7504&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=d717b339940074fb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=4574deb19729e973&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=845158e3afd7b4ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=777e5aaf62ad8256&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=75ab16d7fdb82b31&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E09
+http://kianumaka.lhmtv.gq/play/?list=e05277208d650be4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E10
+http://kianumaka.lhmtv.gq/play/?list=bb4d5eb325947da3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E11
+http://kianumaka.lhmtv.gq/play/?list=fd2ef666c12560ca&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E12
+http://kianumaka.lhmtv.gq/play/?list=d7d7d01fe730cd7d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E13
+http://kianumaka.lhmtv.gq/play/?list=683e136fa06fe4a1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E14
+http://kianumaka.lhmtv.gq/play/?list=a8584b1e6f8ce59c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E15
+http://kianumaka.lhmtv.gq/play/?list=22d5cf015fecba28&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E16
+http://kianumaka.lhmtv.gq/play/?list=974c73fada22ecb7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E17
+http://kianumaka.lhmtv.gq/play/?list=703fba89783a5df4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E18
+http://kianumaka.lhmtv.gq/play/?list=7a59d4e91eae7ed7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E19
+http://kianumaka.lhmtv.gq/play/?list=17de036a884b0074&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E20
+http://kianumaka.lhmtv.gq/play/?list=9c368c5352ba6fac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E21
+http://kianumaka.lhmtv.gq/play/?list=9e0245a29d47af76&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl2.jpg" group-title="Lost Girl", 2T-E22
+http://kianumaka.lhmtv.gq/play/?list=38a2e7c24bd6fadf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E01
+http://kianumaka.lhmtv.gq/play/?list=fe44f05fca30ac7f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E02
+http://kianumaka.lhmtv.gq/play/?list=296b8af31ca8f95b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E03
+http://kianumaka.lhmtv.gq/play/?list=149384c19841d0fb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=bda794c3c217e814&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=a8f5f382f466420b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=1d989b80cebe710b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=67cdf09933a1c48c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=150649f5ed62ba79&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E09
+http://kianumaka.lhmtv.gq/play/?list=6824cc1e435402f0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E10
+http://kianumaka.lhmtv.gq/play/?list=bddb4d381ef966ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E11
+http://kianumaka.lhmtv.gq/play/?list=4cecdd2f6739c2d5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E12
+http://kianumaka.lhmtv.gq/play/?list=910f0f06e95e8799&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl3.jpg" group-title="Lost Girl", 3T-E13
+http://kianumaka.lhmtv.gq/play/?list=2bea286e08858f93&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E01
+http://kianumaka.lhmtv.gq/play/?list=3ed4bb5413049a7d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E02
+http://kianumaka.lhmtv.gq/play/?list=ba7370a2d10fb035&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E03
+http://kianumaka.lhmtv.gq/play/?list=0c528a753cdbbaab&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E04
+http://kianumaka.lhmtv.gq/play/?list=a07b51a1f657d1d2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E05
+http://kianumaka.lhmtv.gq/play/?list=84b6f8c11045ad0d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E06
+http://kianumaka.lhmtv.gq/play/?list=97fb1946ea073b05&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E07
+http://kianumaka.lhmtv.gq/play/?list=e7021b62552c8334&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E08
+http://kianumaka.lhmtv.gq/play/?list=7774aec473492238&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E09
+http://kianumaka.lhmtv.gq/play/?list=2cce843205ea6711&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E10
+http://kianumaka.lhmtv.gq/play/?list=52a0134616c2b99f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E11
+http://kianumaka.lhmtv.gq/play/?list=0afa80f9d89b47c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E12
+http://kianumaka.lhmtv.gq/play/?list=dbc067c8a3295a22&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl4.jpg" group-title="Lost Girl", 4T-E13
+http://kianumaka.lhmtv.gq/play/?list=75d4bb276da4d499&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E01
+http://kianumaka.lhmtv.gq/play/?list=b9f007549ae7134c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E02
+http://kianumaka.lhmtv.gq/play/?list=791947acdf9bfd99&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E03
+http://kianumaka.lhmtv.gq/play/?list=3e0d0a5f25bf6296&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E04
+http://kianumaka.lhmtv.gq/play/?list=9e7b8fcb46c9a621&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E05
+http://kianumaka.lhmtv.gq/play/?list=1fd73e1c00ee453e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E06
+http://kianumaka.lhmtv.gq/play/?list=509f50512e28b636&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E07
+http://kianumaka.lhmtv.gq/play/?list=1a2fbdd138dc00c8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/lgirl5.jpg" group-title="Lost Girl", 5T-E08
+http://kianumaka.lhmtv.gq/play/?list=0d6d429317413b91&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=f751cb858226c7e3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=870b75f8a47a47f0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=b00fdbcf19c1bae5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=f67e1b4e26f742bd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=5ce5496ddff51c81&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=0fb606a1c3b0c426&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=5ee4229beeb555f5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=52185cf3b04254ca&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E09
+http://kianumaka.lhmtv.gq/play/?list=eebcb1936c4b62e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E10
+http://kianumaka.lhmtv.gq/play/?list=41d58003c29716ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E11
+http://kianumaka.lhmtv.gq/play/?list=ddf9209cc44ea55c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E12
+http://kianumaka.lhmtv.gq/play/?list=0b47bb253f3bdc6a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E13
+http://kianumaka.lhmtv.gq/play/?list=903d88f34e70625f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E14
+http://kianumaka.lhmtv.gq/play/?list=136d2a99c462f537&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E15
+http://kianumaka.lhmtv.gq/play/?list=7ea474416a41c2f0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow1.jpg" group-title="DCs Legends of Tomorrow", 1T-E16
+http://kianumaka.lhmtv.gq/play/?list=e58dbbe88081510a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=88d5d55089fa6c3f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=296797de4ebbd0ea&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=8cdb98eab66fc9e9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=84bf567d5bbf84bd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=b596e66f74c492d3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=402c95635a55f2ea&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=73a91421c63fcfcf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=e7e42f7312534e82&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E09
+http://kianumaka.lhmtv.gq/play/?list=fa3ec75683f32a66&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E10
+http://kianumaka.lhmtv.gq/play/?list=0c7a9115fe343e2a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E11
+http://kianumaka.lhmtv.gq/play/?list=46742bdc2a6f32cf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E12
+http://kianumaka.lhmtv.gq/play/?list=b6b3b5c3407acf18&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E13
+http://kianumaka.lhmtv.gq/play/?list=41b2c091140dda3c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E14
+http://kianumaka.lhmtv.gq/play/?list=22f6f994bb47a80b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E15
+http://kianumaka.lhmtv.gq/play/?list=64a07f83fa94e49e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E16
+http://kianumaka.lhmtv.gq/play/?list=0476b762237b2e02&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow2.jpg" group-title="DCs Legends of Tomorrow", 2T-E17
+http://kianumaka.lhmtv.gq/play/?list=0e2420bc533d60d0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E01
+http://kianumaka.lhmtv.gq/play/?list=8564995dac44aad4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E02
+http://kianumaka.lhmtv.gq/play/?list=8fe553f9358bc6ab&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E03
+http://kianumaka.lhmtv.gq/play/?list=47d88c3088e1c4cb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E04
+http://kianumaka.lhmtv.gq/play/?list=0616d6178cd22b88&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E05
+http://kianumaka.lhmtv.gq/play/?list=be4e406a2ac77f03&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E06
+http://kianumaka.lhmtv.gq/play/?list=e677cd84be4925f7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E07
+http://kianumaka.lhmtv.gq/play/?list=cd236cf668b99821&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E08
+http://kianumaka.lhmtv.gq/play/?list=dd541990cf81a431&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E09
+http://kianumaka.lhmtv.gq/play/?list=cab832791f1ca21f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E10
+http://kianumaka.lhmtv.gq/play/?list=d54c457ee57ead88&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E11
+http://kianumaka.lhmtv.gq/play/?list=1d5c39cebdac9bb4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E12
+http://kianumaka.lhmtv.gq/play/?list=0bb697c9c64fcbfe&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E13
+http://kianumaka.lhmtv.gq/play/?list=a29a28bc745415e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E14
+http://kianumaka.lhmtv.gq/play/?list=3e2ce44648a66dcf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E15
+http://kianumaka.lhmtv.gq/play/?list=c60f28da56df6e99&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E16
+http://kianumaka.lhmtv.gq/play/?list=38a4dfb2d263dc16&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E17
+http://kianumaka.lhmtv.gq/play/?list=95cb0893cf9916c0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow3.jpg" group-title="DCs Legends of Tomorrow", 3T-E18
+http://kianumaka.lhmtv.gq/play/?list=6fa539703c21404d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E01
+http://kianumaka.lhmtv.gq/play/?list=620fb74c15c84641&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E02
+http://kianumaka.lhmtv.gq/play/?list=ea49e7942a7b266e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E03
+http://kianumaka.lhmtv.gq/play/?list=c5aa59df961a6576&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E04
+http://kianumaka.lhmtv.gq/play/?list=ea9e2b0aa3a83356&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E05
+http://kianumaka.lhmtv.gq/play/?list=68824847db9cca7c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E06
+http://kianumaka.lhmtv.gq/play/?list=c53435779f3f15d9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E07
+http://kianumaka.lhmtv.gq/play/?list=4bec2829f0ab0c28&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E08
+http://kianumaka.lhmtv.gq/play/?list=e9c97577186091d5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/dclotomorrow4.jpg" group-title="DCs Legends of Tomorrow", 4T-E09
+http://kianumaka.lhmtv.gq/play/?list=abf8c2bccceae8cd&LHMTv
+###
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E01
+http://kianumaka.lhmtv.gq/play/?list=7e96f2925048e983&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E02
+http://kianumaka.lhmtv.gq/play/?list=45877cfbc217eb82&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E03
+http://kianumaka.lhmtv.gq/play/?list=1af215c0eda0e014&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E04
+http://kianumaka.lhmtv.gq/play/?list=0629e4e15deefc1b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E05
+http://kianumaka.lhmtv.gq/play/?list=cf7e794fbc210b91&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E06
+http://kianumaka.lhmtv.gq/play/?list=c76acc9ebce14353&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E07
+http://kianumaka.lhmtv.gq/play/?list=d5c8d2486e8171a0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E08
+http://kianumaka.lhmtv.gq/play/?list=b7cdf69100b1a2ef&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E09
+http://kianumaka.lhmtv.gq/play/?list=1f16815354cf3b4d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E10
+http://kianumaka.lhmtv.gq/play/?list=86ca0d8d52b0ab8e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans1.jpg" group-title="Séries 2021", DC Titans 1T-E11
+http://kianumaka.lhmtv.gq/play/?list=7029ba24fa286620&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E01
+http://kianumaka.lhmtv.gq/play/?list=08fad89e0b66cdc9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E02
+http://kianumaka.lhmtv.gq/play/?list=db9bd9212382072a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E03
+http://kianumaka.lhmtv.gq/play/?list=9c473b684a6dd059&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E04
+http://kianumaka.lhmtv.gq/play/?list=3d1a018bb76d057b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E05
+http://kianumaka.lhmtv.gq/play/?list=ab68c33a63d3bdae&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E06
+http://kianumaka.lhmtv.gq/play/?list=0b397d5a34d3a04b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E07
+http://kianumaka.lhmtv.gq/play/?list=146fa5fc035e30e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E08
+http://kianumaka.lhmtv.gq/play/?list=45b4e73eb6f59823&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E09
+http://kianumaka.lhmtv.gq/play/?list=a370d83d74e610df&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E10
+http://kianumaka.lhmtv.gq/play/?list=eda97494ead876c0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E11
+http://kianumaka.lhmtv.gq/play/?list=d2e4b55c8e4826f9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/titans2.jpg" group-title="Séries 2021", DC Titans 2T-E12
+http://kianumaka.lhmtv.gq/play/?list=3d28dccdeec260df&LHMTv
