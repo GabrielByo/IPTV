@@ -184,6 +184,202 @@ https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 http://tvlatina.homeip.net:25461/1403JorgE2019/1403ZApaTA2019/130
 EXTINF:-1 tvg-logo="" group-title="Crianças e Adolescentes",Discovery Kids
 http://tecnotv.club/pop/smtv.php?c=117_&f=.m3u8
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",1
+http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/469975
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",2
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",3
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87413
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",4
+http://qra1.me:8080/edmundo2021/2021edmundo/30378
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Girls Do Porn
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87416
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Classic Channel 
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87418
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Dorcel TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87419
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Evil Angel 1
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87420
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Evil Angel 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87421
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87422
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub 7
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87423
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub 8
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87424
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub 9
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87425
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub Anal
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87426
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Hotclub Asian Redlight
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87427
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub Black_Website 
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87428
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub Blowjob Extreme
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87429
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub Femdom
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87430
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub Gone Wild
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87431
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub GroupSex
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87432
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult HotClub Girls
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87433
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Gangbang 
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87434
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Hustler TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87435
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Passionate 1
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87437
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Adult Passionate 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87438
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",FantHD
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4695
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",5
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4715
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",6
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4760
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",7
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4674
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Brazzers TV
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4676
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Vivi Red
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4691
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",8
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4692
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PUBLIAGENT 
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4761
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PREMIUM 1
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4762
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PREMIUM 2
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4763
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PREMIUM 3
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4764
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",9
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4765
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",10
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4766
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",11
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4768
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",BLAKED 
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4770
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",BRATTY SIS
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4771
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",BRAZERS
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4772
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",CUM 4K
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4773
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",EXPLOITED TEEN
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4774
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",FIT18
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4776
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PLAYBOY
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4777
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PLAYBOY EUROPE
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4778
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",HOT GUYS
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4779
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",LESTDOEIT
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4780
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",MAMACITA
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4781
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PERV MOM
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4782
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",REALITY KINGS
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4784
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",TUSHYRAWm
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4785
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",VIXEN
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4786
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Playboy
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/17208
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Hustler
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5525
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Hot
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5526
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Dorcel 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/19679
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Leo TV 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/16350
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Jasmin TV 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/16002
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Passie 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/13402
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto", O La La FHD 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5523
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto", Moms Teach 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/13401
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Meiden van Holland Hard 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5524
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Penthouse FHD 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5522
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Platinum FHD 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5513
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Private (
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/5501
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Reality Kings 
+http://mypanel.tv:8080/Antoniomag/tst8osdw2f/13399
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Sextreme
+http://assistirpainel.ddns.net:8880/fabricio001/001fabricio/2196
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Sextreme HD
+http://assistirpainel.ddns.net:8880/fabricio001/001fabricio/26382
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",13
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",14
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11682
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",15
+http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4694
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",16
+http://xtrastv.club:8080/cat54_2/9fr3T8J6dsw/3542
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",17
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",18
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",19
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87417
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",20
+http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470471
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PLAYBOY TV FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/7656
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PLAYBOY TV HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2203
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PLAYBOY TV SD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/3762
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",SEXY HOT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2204
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",BRAZZERS 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11985
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",BRAZZERS 3
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11986
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",BRAZZERS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/3717
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",SEXTREME
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2206
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PENHOUSE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2216
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PRIVATE
+http://tv1.cs10.tv:80/leopoldo/leopoldo/3716
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",EROTIC 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2219
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",JASMIN
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2218
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",VENUS
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2212
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",PLAYBOY H265
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11265
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",SEX HOT H265
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11266
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",SEXTREME H265
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11267
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Sextreme [Alter]
+http://assistirpainel.ddns.net:8880/fabricio001/001fabricio/7223
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Venus
+http://assistirpainel.ddns.net:8880/fabricio001/001fabricio/2147
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Venus HD 
+http://assistirpainel.ddns.net:8880/fabricio001/001fabricio/26378
+#EXTINF:-1 tvg-id="Conteudo Adulto" group-title="Adulto",Venus
+http://assistirpainel.ddns.net:8880/fabricio001/001fabricio/7221
 EXTINF:-1 tvg-logo="" group-title="Crianças e Adolescentes",Disney Junior
 http://meu02.cularu.com:8880/SLD12M2N52104/YuLFkXSKTy/31417
 EXTINF:-1 tvg-logo="" group-title="Crianças e Adolescentes",ZooMoom
